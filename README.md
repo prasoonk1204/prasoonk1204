@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate on **Front-end development projects**
 
