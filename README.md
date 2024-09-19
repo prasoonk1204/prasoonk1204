@@ -21,7 +21,7 @@
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
 <!-- Twitter link 
-    <a href="https://www.twitter.com/pandacodes89" target="">
+    <a href="https://www.twitter.com" target="">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
     </a> -->
 <!-- Linkedin Link -->
