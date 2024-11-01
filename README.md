@@ -43,32 +43,34 @@
 
 ## Frameworks
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)](#)
+<!-- [![React](https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=react&logoColor=58c4dc)](#) -->
 
 
 ## Hosting/Cloud
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-121013?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-579795?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+<!--
 ## IDEs/Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-
+-->
 
 <!-- Github statistics div -->
 
-<h1 align="center">GitHub Statistics 📃</h1>
+<h1 align="center">Statistics 📃</h1>
 <table>
-  <!---
-  <tr>
+  
+<!--   <tr>
 		<td><p align="center"> <img src="https://komarev.com/ghpvc/?username=prasoonk1204&label=Profile%20views&color=0e75b6&style=flat" alt="prasoonk1204" /> </p></td>
 		<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonk1204&show_icons=true&locale=en&layout=compact" alt="prasoonk1204" /></p></td>
-	</tr>
-  -->
+	</tr> -->
+ 
   <tr>
     <td colspan = "2"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=prasoonk1204" alt="prasoonk1204"></a></td>
   </tr>
@@ -82,3 +84,5 @@
 	</table>
 
 </div>
+
+[![An image of @prasoonk1204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasoonk1204)](https://holopin.io/@prasoonk1204)
