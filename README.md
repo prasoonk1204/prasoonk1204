@@ -16,17 +16,17 @@
   <h1 align="center">Let's connect!</h1>
 
   <div align="center">
-  <!-- Github link -->
+<!-- Email --> 
+    <a href="mailto:prasoonkumar467@gmail.com" target="">
+      <img src=https://img.shields.io/badge/email-E34F26.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+<!-- Github link -->
+    </a>
     <a href="https://www.github.com/prasoonk1204" target="">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-<!-- Twitter link 
-    <a href="https://www.twitter.com" target="">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-    </a> -->
 <!-- Linkedin Link -->
     <a href="https://www.linkedin.com/in/prasoon1204" target="">
-      <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/linkedin-1572B6.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
     </a>
    
 
@@ -54,32 +54,21 @@
 ![Vercel](https://img.shields.io/badge/vercel-121013?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-579795?style=for-the-badge&logo=netlify&logoColor=white)
 
-<!--
-## IDEs/Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
--->
-
 <!-- Github statistics div -->
 
 <h1 align="center">Statistics 📃</h1>
 <table>
-  
-<!--   <tr>
-		<td><p align="center"> <img src="https://komarev.com/ghpvc/?username=prasoonk1204&label=Profile%20views&color=0e75b6&style=flat" alt="prasoonk1204" /> </p></td>
-		<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonk1204&show_icons=true&locale=en&layout=compact" alt="prasoonk1204" /></p></td>
-	</tr> -->
- 
+
   <tr>
-    <td colspan = "2"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=prasoonk1204" alt="prasoonk1204"></a></td>
+    <td colspan = "2"><p align="center"> <img src="https://komarev.com/ghpvc/?username=prasoonk1204&label=Profile%20views&color=0e75b6&style=flat" alt="prasoonk1204" /> </p><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=prasoonk1204&theme=nord" alt="prasoonk1204"></a></td>
   </tr>
   <tr>
-		<td colspan = "2"><a href = "https://github.com/prasoonk1204"><img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonk1204&bg_color=ffff&hide_border=true&point=false&line=007FFF&radius=8&area=true&area_color=007FFF&title_color=000000&color=000000"></a></td>
+		<td colspan = "2"><a href = "https://github.com/prasoonk1204"><img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonk1204&bg_color=252932&hide_border=true&point=false&line=007FFF&radius=8&area=true&area_color=007FFF&title_color=fff&color=fff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/prasoonk1204"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonk1204&" alt="prasoonk1204"></a></td>
-		<td><a href="https://github.com/prasoonk1204"><img src="https://github-readme-stats.vercel.app/api?username=prasoonk1204&show_icons=true&locale=en" alt="prasoonk1204"></a></td>
+		<td><a href="https://github.com/prasoonk1204"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonk1204&layout=compact&hide_border=false&theme=nord&title_color=fff" alt="Top Languages" height="180em"/>
+</a></td>
+		<td><a href="https://github.com/prasoonk1204"><img src="https://github-readme-stats.vercel.app/api?username=prasoonk1204&show_icons=true&locale=en&theme=nord&title_color=fff" alt="prasoonk1204"></a></td>
 	</tr>
 	</table>
 
