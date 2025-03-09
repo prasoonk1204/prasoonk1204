@@ -5,10 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://prasoonk.vercel.app](https://prasoonk.vercel.app)
 
-- 💬 Ask me about **JavaScript, GSAP**
-
-- 📫 How to reach me **prasoonkumar467@gmail.com**
-
 <!-- Let's connect div -->
 <div>
   <h2 align="left">Connect with me:</h2>
