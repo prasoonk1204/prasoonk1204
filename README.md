@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Prasoon Kumar</h1>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently working on **Full-stack Development**
 
-- 👨‍💻 All of my projects are available at [https://prasoonk.vercel.app](https://prasoonk.vercel.app)
+- 👨‍💻 Checkout my portfolio - [https://prasoonk.vercel.app](https://prasoonk.vercel.app)
 
 <!-- Let's connect div -->
 <div>
